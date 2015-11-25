@@ -1,3 +1,9 @@
+mono (4.2.1.102-1dvk1) alpha; urgency=low
+
+  * New release with backported fix
+
+ -- dmitry_vk <Kalyanov.Dmitry@gmail.com>  Web, 25 Nov 2015 11:50:13 +0300
+
 mono (4.2.1.102-0xamarin1) alpha; urgency=low
 
   * "New release - mono-4.2.1.102.tar.bz2"
